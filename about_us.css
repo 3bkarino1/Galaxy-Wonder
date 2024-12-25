@@ -80,4 +80,13 @@ body {
     .card-au {
         width: 90%;
     }
+       .center {
+            text-align: center; /* لوضع النص في المنتصف */
+        }
+        .right {
+            text-align: right; /* لوضع النص على اليمين */
+        }
+        .left {
+            text-align: left; /* لوضع النص على اليسار */
+        }
 }
